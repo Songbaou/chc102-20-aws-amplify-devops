@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "chc10220awsamplifyde",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
